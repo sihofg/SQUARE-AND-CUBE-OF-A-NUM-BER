@@ -30,9 +30,7 @@ END
 ```
 
 ## OUTPUT
-<img width="812" height="386" alt="mpmc squae" src="https://github.com/user-attachments/assets/90361453-7686-444d-8577-0f12b84262f0" />
-
-
+<img width="812" height="350" alt="exp4-1" src="https://github.com/user-attachments/assets/f0ad1f55-0547-44e8-98eb-1a732714e6e5" />
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
