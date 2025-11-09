@@ -70,7 +70,7 @@ END
 
 
 ## OUTPUT
-<img width="867" height="386" alt="MPMCCUBE" src="https://github.com/user-attachments/assets/5df86a5c-e1b6-4c42-b575-bdbcf49d479c" />
+<img width="867" height="348" alt="exp4-2" src="https://github.com/user-attachments/assets/8fc054bf-0d38-4021-aa9c-fdd1932ccf85" />
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
